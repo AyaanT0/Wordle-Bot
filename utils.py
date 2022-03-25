@@ -241,7 +241,7 @@ def generate_info_embed() -> nextcord.Embed:
     return nextcord.Embed(
         title="About Discord Wordle Bot",
         description=(
-            "Discord Wordle Bot is a game of wordle-like puzzle solving. Ian sucks btw.\n\n"
+            "basically a discord bot for wordle. Ian sucks btw.\n\n"
             "**You can start a game with**\n\n"
             ":sunny: `/play daily` - Play the puzzle of the day\n"
             ":game_die: `/play random` - Play a random puzzle\n"
